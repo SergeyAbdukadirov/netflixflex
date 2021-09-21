@@ -1,0 +1,54 @@
+body{
+    padding: 0;
+    margin:0;
+    background: black;
+    color: white;
+}
+h2, h1, h3, p{
+    margin: 0;!important;
+}
+.logo{
+    display: flex;
+}
+div>img{
+    width: 169px;
+    margin-left: 46px;
+    margin-top: 29px;
+    height: 46px;
+    margin-right: 1335px;
+}
+.form1{
+    width: 104px;
+    margin-top: 29px;
+    height: 35px;
+    color: white;
+    border-radius: 4px;
+    background: rgba(0,0,0,.4);
+}
+.knopka1{
+    margin-top: 29px;
+    width: 83px;
+    height: 35px;
+    margin-left: 35px;
+    color: white;
+    background: red;
+    border-radius: 4px;
+}
+.title{
+    display: inline-block;
+    margin-left: 604px;
+    margin-right: 604px;
+    width: 640px;
+    font-size: 41px;
+    margin-top: 187px;
+    margin-bottom: 20px;
+}
+.view{
+    display: inline-block;
+    height: 57px;
+    margin-left: 516px;
+    margin-right: 604px;
+    width: 724px;
+    font-size: 18px;
+    text-align: center;
+}
